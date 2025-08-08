@@ -1,0 +1,341 @@
+/* ========== Global Reset ========== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2,h3,h4,h5,h6{
+  margin: 0;
+  padding: 0;
+}
+/* ========== Layout ========== */
+
+.maincontainer {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 1fr;
+  grid-template-rows: 
+  minmax(40vh, 70vh)  /* Hero */
+  max-content max-content /* Box1 */
+  max-content max-content /* Box2 */
+  1fr; /* Footer */
+  grid-template-areas: 
+    "cover"
+    "box1"
+    "box2"
+    "footer";
+  background-color: #f8f8f8;
+  overflow-x: hidden;
+}
+
+/* ========== Hero Section ========== */
+#boxed{
+  grid-area: cover;
+  position: relative;
+  width: 100%;
+  min-height: clamp(40vh, 70vh, 90vh);
+  background: url("../images/handsv1.jpg") center 60% / cover no-repeat;
+  display: grid;
+  grid-template-areas: "navbar_layer";
+  
+}
+
+.gray_layer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(48, 44, 44);
+  opacity: 0.5;
+  z-index: 1;
+}
+
+.center {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
+  z-index: 2;
+}
+
+/* ========== Navbar ========== */
+#nav_layer {
+  grid-area: navbar_layer;
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  display: grid;
+
+  grid-template-columns: auto;
+  align-items: center;
+
+  background: linear-gradient(to bottom, #2a2a2a, #1a1a1a);
+  border-bottom: 0.0125em solid #000;
+  box-shadow: 0 0.25em 0.375em rgba(0, 0, 0, 0.6);
+}
+
+nav ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+.active {
+  background-color: #04AA6D;
+  border-radius: 0.1em;
+}
+
+/* ========== Typography ========== */
+h1 {
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 1rem;
+  color: #000000;
+ text-shadow: 0.05rem 0.05rem 0 #666;
+
+
+}
+
+h3,h5,h6 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #444;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+h3, h5 {
+  font-size: 0.8rem;
+}
+
+h6 {
+  font-size: 0.6rem;
+  line-height: 1.5;
+}
+
+h4 {
+  font-size: 1.7rem;
+  color: #000;
+}
+
+.big_title{
+    font-size: 5rem;
+    color: #000;
+    line-height: 1;
+    text-shadow: 
+    0.1rem 0.1rem 0rem #4a4545,
+    0.2rem 0.2rem 0rem #4a4545,
+    0.3rem 0.3rem 0.3rem #4a4545;
+    font-weight: bold;
+}
+
+.nav_text{
+    font-size: 2rem;
+    font-family: serif;
+    text-align: center;
+  }
+
+/* button Features*/
+.button {
+  background: linear-gradient(to right, #333, #111);
+  color: white;
+
+  padding: clamp(0.4rem, 1vw, 0.7rem) clamp(1.2rem, 2vw, 2rem);
+  font-size: clamp(0.8rem, 1vw, 1rem);
+
+  font-family: 'Segoe UI', sans-serif;
+  border: 0.1rem solid #000;
+  border-radius: 0.6rem;
+  box-shadow: 0.15rem 0.25rem 0.25rem rgba(0, 0, 0, 0.4);
+
+  cursor: pointer;
+  transition: all 0.3s ease;
+  
+  text-align: center;
+  display: inline-block;
+}
+
+/* map Features*/
+iframe{
+    width:100%;
+    height: clamp(25rem,4vh,30rem);
+
+}
+
+.button:hover {
+    background: linear-gradient(to right, #444, #222);
+    transform: scale(1.03);
+    box-shadow: 0.2rem 0.3rem 0.4rem rgba(0, 0, 0, 0.6);
+}
+.button:active {
+  transform: scale(0.93);
+}
+
+/* ========== Box1 Section ========== */
+#box1 {
+    grid-area: box1;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: max-content;
+    grid-template-areas: "side1";
+    margin: 0 4em;
+    gap: 0.5rem;
+    background-color: #f8f8f8;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+#side1{
+    display: grid;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    gap: 1rem;
+    justify-content: center;
+}
+
+#side1 {
+    grid-area: side1;
+    grid-template-columns: auto auto;
+    grid-template-rows: max-content;
+    grid-template-areas: 
+    "boxed1 boxed2";
+}
+
+
+#boxed1, #boxed2{
+    border: 0.125rem solid #5d5555;
+    border-radius: 0.8rem;
+    border-color: #000;
+    box-shadow: 0.1rem 0.2rem 0.2rem #4a4545;
+    width: clamp(9rem, 18vw, 28rem);
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    transition: all 0.3s ease;
+
+    text-align: center;
+    height: fit-content;
+    word-wrap: break-word;
+}
+
+#boxed1:hover, #boxed2:hover{
+  transform: scale(1.03);
+  box-shadow: 0.2rem 0.3rem 0.4rem rgba(0, 0, 0, 0.6);
+} 
+
+
+#boxed1{
+    padding-top: 1rem;
+    grid-area: boxed1;
+    height: clamp(15rem,4vh,20rem);
+
+}
+
+#boxed2{
+    display: grid;
+    grid-area: boxed2;
+    grid-template-areas: "picture1";
+
+}
+
+#box2 {
+  grid-area: box2;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: max-content;
+  grid-template-areas: "side2";
+  margin: 0 4em;
+  gap: 0.5rem;
+  background-color: #f8f8f8;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+#side2{
+    grid-area: side2;
+    grid-template-columns: 1fr;
+    grid-template-rows: max-content;
+}
+
+
+/* ========== Footer ========== */
+#footer {
+  grid-area: footer;
+  background-color: #f8f8f8;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: max-content;
+  grid-template-areas: "side3";
+  padding-bottom: 5em;
+}
+
+#side3 {
+  grid-area: side3;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-row: auto;
+  gap: 1em;
+  justify-content: center;
+  grid-template-areas: "boxed3 boxed4 boxed5 boxed6";
+}
+
+#boxed3, #boxed4, #boxed5, #boxed6 {
+    display: grid;
+    width: clamp(7.5rem, 15vw, 25rem);
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    text-align: center;
+    height: fit-content;
+    word-wrap: break-word;
+}
+
+#boxed3{
+    grid-area: boxed3;
+}
+
+#boxed4{
+    grid-area: boxed4;
+}
+
+#boxed5{
+    grid-area: boxed5;
+}
+
+#boxed6{
+    grid-area: boxed6;
+}
+
+
+/* ========== Images ========== */
+#pic1 {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: clamp(15rem,4vh,20rem);
+    width: 100%;
+    border-radius: 0.8rem 0.8rem 0.8rem 0.8rem;
+    border-bottom: 0.1rem solid;
+
+    background-image: url("../images/handsv2.jpg");
+}
+
+#pic1 {
+  grid-area: picture1;
+  background-image: url("../images/handsv2.jpg");
+}
+
