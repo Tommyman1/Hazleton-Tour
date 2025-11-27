@@ -1,0 +1,772 @@
+{
+    "home": {
+        "title": "Welcome To Hazelton",
+        "sections": {
+            "box1": {
+                "images": {
+                    "picture1": "https://www.wvia.org/2025-04-28/floral-wonderland-tulip-day-grows-into-a-colorful-event-in-hazleton",
+                    "picture2": "https://www.wvia.org/2025-05-03/allone-foundation-charities-celebrates-10-years-of-changing-lives-in-our-communities"
+                },
+                "text": {
+                    "textv1": "Surrounded by beauty and a strong sense of unity, Penn State Hazleton hosts a Tulip Day Festival...",
+                    "textv2": "Volunteers from Penn State Hazleton and Hazleton Area High School stepped up...",
+                    "textv3": "Our Heart, Our Home: Hazleton's Inspiring Community"
+                }
+            },
+            "box2": {
+                "images": {
+                    "picture3": "https://hazleton.psu.edu/",
+                    "picture4": "https://hip1.org/",
+                    "picture5": "https://discovernepa.com/listing/hazle-township-community-park/"
+                },
+                "text": {
+                    "textv4": "Penn State Hazleton - This is one of the most well-known colleges in Hazleton...",
+                    "textv5": "Community Center - Hazleton Integration volunteers work hard to clear our streets...",
+                    "textv6": "Community Park - This park is one of Hazleton's most cherished community spaces..."
+                }
+            }
+        },
+        "footer": {
+            "ExploreHazleton": [
+                {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+                {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+                {"name": "Local Attractions", "link": "exploration.html"},
+                {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+            ],
+            "Education": [
+                {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+                {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+                {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+                {"name": "Youth Programs", "link": "https://hip1.org/"}
+            ],
+            "Community": [
+                {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+                {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+                {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+                {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+            ],
+            "ContactSupport": [
+                {"name": "Contact Us", "link": "contact.html"},
+                {"name": "Privacy Policy", "link": "contact.html"},
+                {"name": "Report an Issue", "link": "contact.html"}
+            ]
+        }
+    },
+    "water": {
+        "title": "Hazleton Water",
+        "sections": {
+            "box1": {
+                "images": {
+                    "pic1": ""
+                },
+                "text": {
+                    "textv1": "Hazleton City Authority",
+                    "button": {
+                        "label": "Click here",
+                        "link": "https://hcawater.org/"
+                    }
+                }
+            }
+        },
+        "footer": {
+            "ExploreHazleton": [
+                {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+                {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+                {"name": "Local Attractions", "link": "exploration.html"},
+                {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+            ],
+            "Education": [
+                {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+                {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+                {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+                {"name": "Youth Programs", "link": "https://hip1.org/"}
+            ],
+            "Community": [
+                {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+                {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+                {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+                {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+            ],
+            "ContactSupport": [
+                {"name": "Contact Us", "link": "contact.html"},
+                {"name": "Privacy Policy", "link": "contact.html"},
+                {"name": "Report an Issue", "link": "contact.html"}
+            ]
+        }
+    },
+    "transportation": {
+        "title": "Hazleton Transportation",
+        "sections": {
+            "box1": {
+                "images": {
+                    "pic1": "",
+                    "pic2": ""
+                },
+                "text": {
+                    "textv1": "Vip Express Travel",
+                    "button1": {
+                        "label": "Click here",
+                        "link": "https://www.facebook.com/vipexpresstravel/"
+                    },
+                    "textv2": "Hazleton Public Transit",
+                    "button2": {
+                        "label": "Click here",
+                        "link": "https://ridehpt.com/"
+                    }
+                }
+            }
+        },
+        "footer": {
+            "ExploreHazleton": [
+                {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+                {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+                {"name": "Local Attractions", "link": "exploration.html"},
+                {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+            ],
+            "Education": [
+                {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+                {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+                {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+                {"name": "Youth Programs", "link": "https://hip1.org/"}
+            ],
+            "Community": [
+                {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+                {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+                {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+                {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+            ],
+            "ContactSupport": [
+                {"name": "Contact Us", "link": "contact.html"},
+                {"name": "Privacy Policy", "link": "contact.html"},
+                {"name": "Report an Issue", "link": "contact.html"}
+            ]
+        }
+    },
+
+
+"sewage": {
+    "title": "Hazleton Sewer",
+    "sections": {
+        "box1": {
+            "images": {
+                "pic1": ""
+            },
+            "text": {
+                "textv1": "Greater Hazleton Joint Sewer Authority",
+                "button": {
+                    "label": "Click here",
+                    "link": "https://ghjsa.org/"
+                }
+            }
+        }
+    },
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"services": {
+    "title": "Welcome To Hazelton",
+    "sections": {
+        "Utilities": [
+            {
+                "name": "Electricity",
+                "link": "electricity.html"
+            },
+            {
+                "name": "Water",
+                "link": "water.html"
+            },
+            {
+                "name": "Gas",
+                "link": "gas.html"
+            },
+            {
+                "name": "Sewage",
+                "link": "sewage.html"
+            },
+            {
+                "name": "Garbage",
+                "link": "Garbage.html"
+            }
+        ],
+        "Personal": [
+            {
+                "name": "Education",
+                "link": "education.html"
+            },
+            {
+                "name": "Internet",
+                "link": "internet.html"
+            },
+            {
+                "name": "Travel",
+                "link": "transportation.html"
+            },
+            {
+                "name": "Health",
+                "link": "health.html"
+            },
+            {
+                "name": "Police",
+                "link": "police.html"
+            },
+            {
+                "name": "Banks",
+                "link": "banks.html"
+            }
+        ]
+    },
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"police": {
+    "title": "Here to Serve",
+    "sections": [
+        {
+            "name": "City of Hazleton Police Department",
+            "link": "https://www.hazletoncity.org/departments/police-department"
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"nature": {
+    "title": "Embrace Nature",
+    "sections": [
+        {
+            "name": "Hazle Township Community Park",
+            "link": "https://discovernepa.com/listing/hazle-township-community-park/"
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"internet": {
+    "title": "Internet",
+    "sections": [
+        {
+            "name": "Starlink Internet",
+            "link": "https://starlink.com/"
+        },
+        {
+            "name": "Service Electric",
+            "link": "https://sectv.com/"
+        },
+        {
+            "name": "Viasat Internet",
+            "link": "https://www.viasat.com/isg/?igp=44723&tel=1-833-440-3436&tbd=1&sb=1&msclkid=43f0f7a49d6c19c7df8e9e83a9453f23&utm_source=bing&utm_medium=cpc&utm_campaign=ISG%20-%20Bing%20-%20Viasat%20-%20P1%20-%20Core%20Terms&utm_term=viasat%20internet&utm_content=Priority"
+        },
+        {
+            "name": "Frontier Internet",
+            "link": "https://go.frontier.com/lp/high-speed-internet?utm_source=bing&utm_medium=paid_search&utm_campaign=698167871&utm_content=1243548959011457&utm_term=kwd-77722156997151&tprovider=bing&tid=a163d26ff302113915f7bb48c0fa3794&kbid=169532&loc1=&loc2=98682&device_type=c&creative=77721936845341&query=frontier%20internet&msclkid=a163d26ff302113915f7bb48c0fa3794"
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"health": {
+    "title": "Stay Healthy",
+    "sections": [
+        {
+            "name": "Lehigh Valley Hospital",
+            "link": "https://www.lvhn.org/locations/lehigh-valley-hospital-hazleton"
+        },
+        {
+            "name": "Hazleton WIC Center",
+            "link": "https://mfhs.org/mfhs-hazleton/"
+        },
+        {
+            "name": "Hazleton Urgent Care Center",
+            "link": "https://www.hazletonmd.com/"
+        },
+        {
+            "name": "HNL Lab Medicine",
+            "link": "https://www.hnl.com/"
+        },
+        {
+            "name": "Pinnacle Treatment Centers",
+            "link": "https://pinnacletreatment.com/"
+        },
+        {
+            "name": "Caring Communities",
+            "link": "https://www.caringpa.org/"
+        },
+        {
+            "name": "ST Luke's Health Center",
+            "link": "https://www.slhn.org/locations/stlukes-health-center-hazleton"
+        },
+        {
+            "name": "Walmart Vision Center",
+            "link": "https://www.walmart.com/search/?query=vision+center&adid=22222222224701322275&wmlspartner=wmtlabs&wl0=e&wl1=o&wl2=c&wl3=73186707120332&wl4=kwd-73187101865704:aud-815824415:loc-71320&wl5=98682&wl6=&wl7=&wl14=Walmart%20Vision%20Center&veh=sem&gclid=519c8635a2781bf7fd15ef12e45c6e8f&gclsrc=3p.ds&msclkid=519c8635a2781bf7fd15ef12e45c6e8f"
+        },
+        {
+            "name": "Crystal Vision Center",
+            "link": "https://www.visioncristal.com/"
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"gas": {
+    "title": "Hazelton Gas",
+    "sections": [
+        {
+            "name": "UGI- Energy To Do More",
+            "link": "https://www.ugi.com/"
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"garbage": {
+    "title": "Garbage Disposal",
+    "sections": [
+        {
+            "name": "Hazleton City Authority Trash and Recycling",
+            "link": "https://hcawater.org/trash-and-recycling/"
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"exploration": {
+    "title": "Come Explore Hazleton",
+    "sections": [
+        {
+            "category": "Attractions",
+            "items": [
+                {
+                    "name": "Food",
+                    "link": "https://www.tripadvisor.com/Restaurants-g52805-Hazleton_Luzerne_County_Pocono_Mountains_Region_Pennsylvania.html"
+                },
+                {
+                    "name": "Activities",
+                    "link": "https://thetouristchecklist.com/things-to-do-in-hazleton-pa/"
+                },
+                {
+                    "name": "Nature",
+                    "link": "nature.html"
+                }
+            ]
+        }
+    ],
+    "imageGallery": [
+        {"id": "pic4"},
+        {"id": "pic5"},
+        {"id": "pic6"},
+        {"id": "pic7"}
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"electricity": {
+    "title": "Your Power Awaits",
+    "sections": [
+        {
+            "category": "Electricity Services",
+            "items": [
+                {
+                    "name": "PPL Electric Utilities",
+                    "link": "https://www.pplelectric.com/"
+                },
+                {
+                    "name": "UGI Energy Services",
+                    "link": "https://ugies.com/"
+                }
+            ]
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"education": {
+    "title": "Education",
+    "sections": [
+        {
+            "category": "Elementary/Middle School",
+            "items": [
+                {"name": "Drums Elementary/Middle School", "link": "https://www.hasdk12.org/"},
+                {"name": "Heights Terrace Elementary/Middle School", "link": "https://www.hasdk12.org/o/htems"},
+                {"name": "Freeland Elementary/Middle School", "link": "https://www.hasdk12.org/o/fems"},
+                {"name": "West Hazleton Elementary/Middle School", "link": "https://www.hasdk12.org/o/whems"},
+                {"name": "Hazleton Elementary/Middle School", "link": "https://www.hasdk12.org/o/hems"},
+                {"name": "Maple Manor Elementary/Middle School", "link": "https://www.hasdk12.org/o/mmems"},
+                {"name": "Mcadoo-Kelayres Elementary/Middle School", "link": "https://www.hasdk12.org/o/mkems"},
+                {"name": "Valley Elementary/Middle School", "link": "https://www.hasdk12.org/o/vems"}
+            ]
+        },
+        {
+            "category": "High School",
+            "items": [
+                {"name": "STEM", "link": "https://www.hasdk12.org/o/haas"},
+                {"name": "Hazleton Area High School", "link": "https://www.hasdk12.org/o/hahs/"},
+                {"name": "Hazleton Area Career Center", "link": "https://www.hasdk12.org/o/hacc"}
+            ]
+        },
+        {
+            "category": "Colleges",
+            "items": [
+                {"name": "Luzerne County Community College", "link": "https://www.luzerne.edu/default.jsp"},
+                {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+                {"name": "Johnson College Hazleton", "link": "https://johnson.edu/hazleton/"}
+            ]
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"contact": {
+    "title": "Welcome To Hazelton",
+    "description": "We’re so glad you’re here. This space was built with kindness, support, and growth in mind—and that means you never have to go through anything alone.",
+    "sections": [
+        {
+            "category": "Reception Office",
+            "address": "40 N Church St, Hazleton, PA 18201",
+            "hours": "Monday- Friday 8:30 am – 4:00pm",
+            "contactInfo": {
+                "phone": "(570)-459-4960",
+                "email": "akeegan@cityofhazleton.org"
+            },
+            "image": "pic1"
+        },
+        {
+            "category": "Map",
+            "iframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d192810.08133998845!2d-76.0334445!3d40.9670809!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c5a4132867b6b1%3A0x442d01bc719543f4!2sHazleton%2C%20PA!5e0!3m2!1sen!2sus!4v1754603109597!5m2!1sen!2sus"
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+},
+
+"banks": {
+    "title": "Banks",
+    "sections": [
+        {
+            "category": "Banks Near You",
+            "banks": [
+                {"name": "Luzerne Bank", "link": "https://www.northwest.bank/welcome/"},
+                {"name": "Truist Bank", "link": "https://www.truist.com/checking/open-checking?cid=PS-BING-101525224&CampIDMaj=AABGB&CampIDMin=AGB&gclid=acfca572286d1c6a220ccc557a4d79d5&gclsrc=3p.ds&msclkid=acfca572286d1c6a220ccc557a4d79d5"},
+                {"name": "PNC Bank", "link": "https://www.pnc.com/en/personal-banking.html?WT.srch=1&WT.mc_id=BRND_BING_Search_NE_S_M_B_BRND_Brand_E&e=BING&m=p&k=pnc%20bank%20official%20site&gclid=76f5fc8b7a3c1733c59295ac28049f9d&gclsrc=3p.ds&&msclkid=76f5fc8b7a3c1733c59295ac28049f9d"},
+                {"name": "Choice One", "link": "https://www.choiceone.bank/"},
+                {"name": "Mid Penn Bank", "link": "https://midpennbank.com/"},
+                {"name": "M&T Bank", "link": "https://www.mtb.com/personal/checking-accounts?ch=psb&campaignid=291815546&targetid=kwd-78890348702901:loc-71320&adid=78890168318258&matchtype=e&addisttype=o&adgroupid=1262239962324866&utm_source=microsoft&utm_medium=cpc&utm_term=m%20%26%20t%20bank&utm_campaign=291815546|qapk31mswr&msclkid=b08f765d3e08115004221f7a6c8b04c4"},
+                {"name": "Woodforest National", "link": "https://www.woodforest.com/"},
+                {"name": "Fidelity Bank", "link": "https://www.fidelity.com/go/join-fidelity-investments?imm_pid=93736510295&immid=100742_SEA&imm_eid=ep6438690101&utm_source=MICROSOFT&utm_medium=paid_search&utm_account_id=7335757735&utm_campaign=BRD&utm_content=93736510295&utm_term=fildelity&utm_campaign_id=100742&utm_id=9224498353&gclid=105bbedfbe651aebb24cd7f8ecc64e29&gclsrc=3p.ds&"},
+                {"name": "Citizens Bank", "link": "https://www.citizensbank.com/promo/citizensbank.aspx?ctzMode=MKL-SEM--BNG--BRND--CTZ--BR--72500980--135407845873&campaignid=223249118&acctid=21700000001657720&dskeywordid=72500980&lid=43700069826395625&ds_s_kwgid=58700007699985026&ds_a_cid=866494047&ds_a_caid=16450240981&ds_a_agid=135407845873&ds_a_lid=kwd-72500980&device=c&network=o&matchtype=e&locationid=98682&creative=&targetid=kwd-50269724739:loc-71320&&msclkid=6d9d76b00bb018e5fcc01f97590a9219&gclid=6d9d76b00bb018e5fcc01f97590a9219&gclsrc=3p.ds&gad_source=7&gad_campaignid=16450240981"},
+                {"name": "Community Bank N.A", "link": "https://cbna.com/"}
+            ]
+        }
+    ],
+    "footer": {
+        "ExploreHazleton": [
+            {"name": "Community Park", "link": "https://discovernepa.com/listing/hazle-township-community-park/"},
+            {"name": "Downtown Events", "link": "https://allevents.in/hazleton-pa/all"},
+            {"name": "Local Attractions", "link": "exploration.html"},
+            {"name": "Farmers Market", "link": "https://nfmd.org/pa/west-hazleton/1001818/"}
+        ],
+        "Education": [
+            {"name": "Penn State Hazleton", "link": "https://hazleton.psu.edu/"},
+            {"name": "Hazleton Area Public Library", "link": "https://www.hazletonlibrary.org/"},
+            {"name": "Career Services", "link": "https://hazleton.psu.edu/career-services"},
+            {"name": "Youth Programs", "link": "https://hip1.org/"}
+        ],
+        "Community": [
+            {"name": "Hazleton Integration Center", "link": "https://hip1.org/"},
+            {"name": "Volunteer Opportunities", "link": "https://hip1.org/"},
+            {"name": "Health & Wellness Services", "link": "https://www.lvhn.org/locations/health-wellness-center-hazleton"},
+            {"name": "Housing Assistance", "link": "https://hazletonhousingauthority.com/"}
+        ],
+        "ContactSupport": [
+            {"name": "Contact Us", "link": "contact.html"},
+            {"name": "Privacy Policy", "link": "contact.html"},
+            {"name": "Report an Issue", "link": "contact.html"}
+        ]
+    }
+}
+}
