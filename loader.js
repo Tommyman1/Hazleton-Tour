@@ -134,4 +134,4 @@ function loadpagedata(){
 
 //every hour it checks if the json file has been modefied
 fetchdata();
-setInterval(fetchdata,3600)
+setInterval(fetchdata, 3600000)
