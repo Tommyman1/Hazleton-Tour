@@ -108,7 +108,8 @@ else if (value.title || value.description || value.photoCredit || value.title ||
 async function fetchdata(){
     try{
         //grabs the text turns it into usable json data
-        const temp = await fetch("/info.json");
+        const fetchPath = location.pathname.includes("/pages/") ? "../info.json" : "./info.json";
+        const temp = await fetch(fetchPath);
         content_data = await temp.json();
         loadpagedata();
     }
