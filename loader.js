@@ -97,6 +97,7 @@ else if (value.title || value.description || value.photoCredit || value.title ||
         <h5>${value.description || ""}</h5>
         <h5>${value.photoCredit || ""}</h5>
     `;
+    continue;
 }
             // recurse deeper if needed
             applyData(value);
